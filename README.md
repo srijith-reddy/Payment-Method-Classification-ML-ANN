@@ -1,6 +1,6 @@
 # Payment Method Classification (ML + ANN)
 
-This project predicts customer payment method (Credit Card, Debit Card, PayPal) using leakage-free numerical retail transaction features. We compare **multinomial logistic regression** and a simple **artificial neural network (ANN)** on a curated dataset of 240 online transactions.
+This project predicts customer payment method (Credit Card, Debit Card, PayPal) using leakage-free numerical retail transaction features. We compare multinomial logistic regression and a simple artificial neural network (ANN) on a curated dataset of 240 online transactions.
 
 ## Overview
 All categorical variables with deterministic mappings (product category, product name, region, date) were removed to prevent data leakage. The final feature set includes:
