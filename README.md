@@ -35,8 +35,4 @@ Features were standardized before modeling.
 - Edvin Leon  
 - Alexander Mendez  
 
-## Repository
-Full code, figures, and notebooks:
 
-**https://github.com/srijith-reddy/Payment-Method-Classification-ML-ANN**
-# Payment-Method-Classification-ML-ANN
