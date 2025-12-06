@@ -25,9 +25,9 @@ Features were standardized before modeling.
   - Coefficients show weak but consistent numerical signal
 
 ## Key Findings
-- Numerical features alone provide **limited predictive capability**.
+- Numerical features alone provide limited predictive capability.
 - Logistic regression performs best; ANN does not uncover additional structure.
-- Bootstrap analysis confirms model stability—performance limits stem from **feature constraints**, not model variance.
+- Bootstrap analysis confirms model stability—performance limits stem from feature constraints, not model variance.
 
 ## Team Members
 - Saisrijith Reddy Maramreddy  
