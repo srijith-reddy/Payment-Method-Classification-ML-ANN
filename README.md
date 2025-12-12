@@ -19,7 +19,7 @@ Features were standardized before modeling.
   - 10-fold stratified cross-validation
   - Test accuracy ≈ **0.67**
 - **Artificial Neural Network (32→16 ReLU)**
-  - Test accuracy ≈ **0.54**
+  - Test accuracy ≈ **0.63**
 - **Bootstrap Resampling (1000 iterations)**
   - Stable accuracy range: **0.60–0.70**
   - Coefficients show weak but consistent numerical signal
