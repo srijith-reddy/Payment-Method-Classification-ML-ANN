@@ -18,7 +18,7 @@ Features were standardized before modeling.
 - **Multinomial Logistic Regression**
   - 10-fold stratified cross-validation
   - Test accuracy ≈ **0.67**
-- **Artificial Neural Network (32→16 ReLU)**
+- **Artificial Neural Network**
   - 10-fold cross-validation
   - Hyperparameter Tuning
   - Test accuracy ≈ **0.63**
